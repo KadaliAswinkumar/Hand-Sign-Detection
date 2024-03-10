@@ -4,6 +4,8 @@
 
 Hand sign detection using Computer Vision represents an innovative fusion of machine learning algorithms and image processing techniques, poised to revolutionize various domains including human-computer interaction, virtual reality, robotics, and assistive technology. This project endeavors to develop robust algorithms capable of accurately detecting and recognizing hand signs in real-time, thereby enabling seamless interaction between humans and machines.
 
+# Working: 
+
 # **Key Components:**
 
 - *Preprocessing Techniques*: Enhance image quality to facilitate accurate gesture recognition.
@@ -20,6 +22,4 @@ Hand sign detection using Computer Vision represents an innovative fusion of mac
 
 Hand sign detection using Computer Vision holds immense promise for transforming the way humans interact with technology and each other. By bridging the gap between physical gestures and digital systems, this technology opens new avenues for seamless communication, immersive experiences, and inclusive design, making it a compelling area of research and development in the field of computer vision and artificial intelligence.
 
----
 
-Feel free to customize and expand upon this README to provide more details specific to your project and its implementation.
