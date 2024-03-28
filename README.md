@@ -6,6 +6,9 @@ Hand sign detection using Computer Vision represents an innovative fusion of mac
 
 # Working: 
 
+![ASL](https://github.com/KadaliAswinkumar/Hand-Sign-Detection/assets/89196595/e6447520-cc3d-4159-8fd4-8537a706f7ff)
+
+
 # **Key Components:**
 
 - *Preprocessing Techniques*: Enhance image quality to facilitate accurate gesture recognition.
